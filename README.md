@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dhensley31
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning JavaScripy
+- 🌱 I’m currently learning JavaScript/Apex for Saleforce
+- Trying to get an Internship
 
 
 <!---
