@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhensley31
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning JavaScript/Apex for Saleforce
-- Trying to get an Internship
+- 👀 I’m interested in machine learning/CyberSecurity 
+- 🌱 I’m currently learning more about Cybersecurity for my Upcoming Pepsico Internship
+- PepsiCo Intern 2026 Cybersecurity 
 
 
 <!---
